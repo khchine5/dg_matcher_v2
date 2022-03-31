@@ -1,0 +1,68 @@
+{
+  "brand": [
+    {
+      "data": [
+        {
+          "id": 1,
+          "title": "Brand 1"
+        },
+        {
+          "id": 2,
+          "title": "Brand 2"
+        },
+        {
+          "id": 3,
+          "title": "Brand 3"
+        },
+        {
+          "id": 4,
+          "title": "Brand 4"
+        },
+        {
+          "id": 5,
+          "title": "Brand 5"
+        },
+        {
+          "id": 6,
+          "title": "Brand 6"
+        },
+        {
+          "id": 7,
+          "title": "Brand 7"
+        }
+      ]
+    }
+  ],
+  "category": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Category 1"
+      },
+      {
+        "id": 2,
+        "title": "Category 2"
+      },
+      {
+        "id": 3,
+        "title": "Category 3"
+      },
+      {
+        "id": 4,
+        "title": "Category 4"
+      },
+      {
+        "id": 5,
+        "title": "Category 5"
+      },
+      {
+        "id": 6,
+        "title": "Category 6"
+      },
+      {
+        "id": 7,
+        "title": "Category 7"
+      }
+    ]
+  }
+}
