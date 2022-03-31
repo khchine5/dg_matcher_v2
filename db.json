@@ -1,38 +1,36 @@
 {
-  "brand": [
-    {
-      "data": [
-        {
-          "id": 1,
-          "title": "Brand 1"
-        },
-        {
-          "id": 2,
-          "title": "Brand 2"
-        },
-        {
-          "id": 3,
-          "title": "Brand 3"
-        },
-        {
-          "id": 4,
-          "title": "Brand 4"
-        },
-        {
-          "id": 5,
-          "title": "Brand 5"
-        },
-        {
-          "id": 6,
-          "title": "Brand 6"
-        },
-        {
-          "id": 7,
-          "title": "Brand 7"
-        }
-      ]
-    }
-  ],
+  "brand": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Brand 1"
+      },
+      {
+        "id": 2,
+        "title": "Brand 2"
+      },
+      {
+        "id": 3,
+        "title": "Brand 3"
+      },
+      {
+        "id": 4,
+        "title": "Brand 4"
+      },
+      {
+        "id": 5,
+        "title": "Brand 5"
+      },
+      {
+        "id": 6,
+        "title": "Brand 6"
+      },
+      {
+        "id": 7,
+        "title": "Brand 7"
+      }
+    ]
+  },
   "category": {
     "data": [
       {
@@ -62,6 +60,72 @@
       {
         "id": 7,
         "title": "Category 7"
+      }
+    ]
+  },
+  "campaigns": {
+    "data": [
+      {
+        "image": "https://blog.hubspot.com/hubfs/parts-url.jpg",
+        "data": [
+          {
+            "id": 1,
+            "ean": "111111111111",
+            "label": "EAN label",
+            "brand": {
+              "id": 1,
+              "title": "Brand 1"
+            },
+            "category": {
+              "id": 1,
+              "title": "Category1"
+            }
+          },
+          {
+            "id": 2,
+            "ean": "22222222222222",
+            "label": "EAN label 2",
+            "brand": {
+              "id": 2,
+              "title": "Brand 2"
+            },
+            "category": {
+              "id": 2,
+              "title": "Category 2"
+            }
+          }
+        ]
+      },
+      {
+        "image": "https://blog.hubspot.com/hubfs/parts-url.jpg",
+        "data": [
+          {
+            "id": 1,
+            "ean": "111111111111",
+            "label": "EAN label",
+            "brand": {
+              "id": 1,
+              "title": "Brand 1"
+            },
+            "category": {
+              "id": 1,
+              "title": "Category1"
+            }
+          },
+          {
+            "id": 2,
+            "ean": "22222222222222",
+            "label": "EAN label 2",
+            "brand": {
+              "id": 2,
+              "title": "Brand 2"
+            },
+            "category": {
+              "id": 2,
+              "title": "Category 2"
+            }
+          }
+        ]
       }
     ]
   }
