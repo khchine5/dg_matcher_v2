@@ -69,6 +69,7 @@
         "id": 1,
         "ean": "111111111111",
         "label": "EAN label",
+        "manufacturer":"Manufacturer 1",
         "brand": {
           "id": 1,
           "title": "Brand 1"
@@ -76,7 +77,23 @@
         "category": {
           "id": 1,
           "title": "Category1"
-        }
+        },
+        "compaigns":["https://blog.hubspot.com/hubfs/parts-url.jpg","https://blog.hubspot.com/hubfs/parts-url.jpg"]
+      },
+      {
+        "id": 1,
+        "ean": "111111111111",
+        "label": "EAN label",
+        "manufacturer":"Manufacturer 1",
+        "brand": {
+          "id": 1,
+          "title": "Brand 1"
+        },
+        "category": {
+          "id": 1,
+          "title": "Category1"
+        },
+        "compaigns":["https://blog.hubspot.com/hubfs/parts-url.jpg","https://blog.hubspot.com/hubfs/parts-url.jpg"]
       },
       {
         "id": 1,
@@ -89,20 +106,8 @@
         "category": {
           "id": 1,
           "title": "Category1"
-        }
-      },
-      {
-        "id": 1,
-        "ean": "111111111111",
-        "label": "EAN label",
-        "brand": {
-          "id": 1,
-          "title": "Brand 1"
         },
-        "category": {
-          "id": 1,
-          "title": "Category1"
-        }
+        "compaigns":["https://blog.hubspot.com/hubfs/parts-url.jpg","https://blog.hubspot.com/hubfs/parts-url.jpg"]
       },
       {
         "id": 1,
